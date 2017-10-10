@@ -9,9 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface DDFactory : NSObject
-
-+(instancetype)factory;
-
 -(void)success;
 @end
 
